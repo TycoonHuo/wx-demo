@@ -1,0 +1,8 @@
+server:
+  port: 700
+
+wx:
+  token: obsidian
+  appID: wx319d199f0718db38
+  appsecret: 5503da257a30c0801fcb7b085772054e
+  host: sx4xnw.natappfree.cc
